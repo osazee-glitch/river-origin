@@ -1,5 +1,5 @@
 import p1 from "../assets/p1.mp4";
-import p2 from "../assets/p2.mp4";
+import p2 from "../assets/p2.jpeg";
 import image1 from "../assets/image 1.jpeg";
 import photo1 from "../assets/photo 1.jpeg";
 import photo2 from "../assets/photo 2.jpeg";
@@ -53,14 +53,20 @@ DESIGN REGISTRATION NO. 6525462
            Support our mission while experiencing a smarter bottle, designed for comfort and safety. Made with food-grade materials suitable for contact with drinking water.
           </p>
 
-         <a
-  href="https://ebay.io/m/xkvSt9"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="shop-btn"
->
-  Visit Shop
-</a>
+         <div className="hero-buttons">
+  <a
+    href="https://ebay.io/m/xkvSt9"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="shop-btn"
+  >
+    Visit Shop
+  </a>
+
+  <button className="shop-btn android-btn" disabled>
+    Android App — Coming Soon
+  </button>
+</div>
 
         </div>
 
@@ -70,13 +76,11 @@ DESIGN REGISTRATION NO. 6525462
 
             <span>FUTURE PROJECT</span>
 
-            <h3>ELEMENT I</h3>
+            <h3>OUR GOAL</h3>
 
             <p>
-              Redefining the future of water bottles through
-              forward-thinking innovation, enhanced security
-              and technology that helps create its own
-              drinkable water.
+              Redefining the future of water bottles through innovative technology,
+               atmospheric water generation, and aquatic remediation, engineered for a more sustainable future.
             </p>
 
             <div className="prototype">
@@ -92,13 +96,10 @@ DESIGN REGISTRATION NO. 6525462
   playsInline
 />
 
-  <video
+  <img
   src={p2}
   className="image-card large"
-  autoPlay
-  loop
-  muted
-  playsInline
+  alt="River Origin"
 />
 
   <img
