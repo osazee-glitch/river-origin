@@ -50,7 +50,7 @@ DESIGN REGISTRATION NO. 6525462
           </h1>
 
           <p className="description">
-           Support our mission while experiencing a smarter bottle, designed for comfort and safety. Made with food-grade materials suitable for contact with drinking water.
+           Support our mission while experiencing a smarter bottle, designed for comfort and safety. Made with food grade materials suitable for contact with drinking water.
           </p>
 
          <div className="hero-buttons">
@@ -64,7 +64,7 @@ DESIGN REGISTRATION NO. 6525462
   </a>
 
   <button className="shop-btn android-btn" disabled>
-    Android App — Coming Soon
+   Download Android App
   </button>
 </div>
 
@@ -132,7 +132,7 @@ DESIGN REGISTRATION NO. 6525462
   <h3>Smart Bottle</h3>
   <p>
     We are creating a smart bottle that defines the true essence of
-    creativity and features what you actually need for a healthy, safe sip—
+    creativity and features what you actually need for a healthy, safe sip
     while pioneering one of the world’s first bottles capable of creating its own water.
   </p>
 </div>
@@ -171,7 +171,7 @@ DESIGN REGISTRATION NO. 6525462
     greater confidence in the safety of what we drink through thoughtful
     innovation. We are building products and technologies that promote healthier
     living, safer hydration, personal security, environmental sustainability,
-    and a future where clean water is more accessible to everyone—giving people
+    and a future where clean water is more accessible to everyone giving people
     peace of mind with every sip.
   </p>
 
@@ -181,7 +181,7 @@ DESIGN REGISTRATION NO. 6525462
 
   <p className="mission-text">
     We envision a world where advanced water technologies empower people
-    everywhere—from everyday users to communities facing water scarcity, water
+    everywhere from everyday users to communities facing water scarcity, water
     contamination, or water tampering. Our vision is to create a future where
     clean, safe drinking water is never out of reach, and where every person can
     trust their bottle to deliver a safe, refreshing sip with complete peace of
