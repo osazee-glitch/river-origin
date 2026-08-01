@@ -68,7 +68,7 @@ DESIGN REGISTRATION NO. 6525462
   download
   className="shop-btn android-btn"
 >
-  Download Android App
+Android App
 </a>
 </div>
 
