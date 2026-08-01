@@ -63,9 +63,13 @@ DESIGN REGISTRATION NO. 6525462
     Visit Shop
   </a>
 
-  <button className="shop-btn android-btn" disabled>
-   Download Android App
-  </button>
+ <a
+  href="/downloads/RiverOrigin_v1.0.apk"
+  download
+  className="shop-btn android-btn"
+>
+  Download Android App
+</a>
 </div>
 
         </div>
