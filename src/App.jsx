@@ -1,9 +1,8 @@
 import "./App.css";
 import logo from "./assets/river origin logo.jpeg";
 import Hero from "./components/Hero";
-import printer from "./assets/a1.jpeg";
 import backgroundVideo from "./assets/background.mp4";
-
+import printer from "./assets/a1.jpeg";
 function App() {
   return (
     <div className="app">
@@ -29,8 +28,8 @@ function App() {
         </div>
         <div className="header-feature">
   <div className="header-feature-text">
-    <span>THE FUTURE OF PRODUCTION</span>
-    <p>Harnessing the power of 3D printing technology.</p>
+    <span>DRINK WITH CONFIDENCE</span>
+    <p>Committed to Safe Drinking Water</p>
   </div>
 
   <img

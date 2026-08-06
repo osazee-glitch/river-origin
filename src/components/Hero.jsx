@@ -136,8 +136,7 @@ Android App
   <h3>Smart Bottle</h3>
   <p>
     We are creating a smart bottle that defines the true essence of
-    creativity and features what you actually need for a healthy, safe sip
-    while pioneering one of the world’s first bottles capable of creating its own water.
+    creativity and features what you actually need for a healthy, safe sip.
   </p>
 </div>
 
