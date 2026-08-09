@@ -29,7 +29,7 @@ function App() {
         <div className="header-feature">
   <div className="header-feature-text">
     <span>DRINK WITH CONFIDENCE</span>
-    <p>Committed to Safe Drinking Water</p>
+    <p>Committed to Safe Drinking</p>
   </div>
 
   <img
